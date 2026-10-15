@@ -1,0 +1,12 @@
+tmp/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+portfolio-github-pages.zip
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*service-account*.json
+*service_account*.json
